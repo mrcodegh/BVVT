@@ -1,5 +1,12 @@
-Audio Spectrum Analyzer for Android
-===================================
+Blitzortung Verification Via Thunder for Android
+================================================
+
+Fork of bewantbe/audio-analyzer-for-android.
+
+Use phone microphone to listen for thunder and verify CG lightning strikes as reported by Blitzortung.org.
+Project is just starting...
+
+------------------------------------
 
 >  A fork of [Audio spectrum Analyzer for Android](https://code.google.com/p/audio-analyzer-for-android/) (See README.old for its original readme)
 
